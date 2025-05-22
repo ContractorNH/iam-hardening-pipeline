@@ -41,3 +41,7 @@ module "iam_hardening" {
 ---
 
 ### [Deploy Securely Now →](https://opscontractordev.super.site)
+
+> Want access to the full Terraform deployment code?  
+> Request private access at [your email] or through [your Super site].
+
